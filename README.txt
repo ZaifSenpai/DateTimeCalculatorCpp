@@ -25,3 +25,5 @@ For example:
 
 and the delimeter to separate the numbers can be the following 4 characters:
 - / . :
+
+Program by: Zaif Senpai
